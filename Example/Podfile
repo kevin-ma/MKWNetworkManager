@@ -1,4 +1,7 @@
+#use_frameworks!
+# source "https://github.com/kevin-ma/Specs.git"
+platform :ios, '8.0'
 
-target MKWNetworkManager do
+target "MKWNetworkManager" do
   pod "MKWNetworkManager",:path=>'../'
 end
