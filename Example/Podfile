@@ -1,0 +1,4 @@
+
+target MKWNetworkManager do
+  pod "MKWNetworkManager",:path=>'../MKWNetworkManager'
+end
